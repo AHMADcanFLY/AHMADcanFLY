@@ -1,8 +1,6 @@
 -👋 Hi, I’m @AHMADcanFLY.
 
 - 👀 I’m interested in app development.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on learning Flutter.
 - My email: glacierlevelmaterial1@gmail.com
 
 <!---
