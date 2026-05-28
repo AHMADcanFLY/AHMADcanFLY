@@ -1,6 +1,5 @@
 -👋 Hi, I’m @AHMADcanFLY.
 
-- 👀 I’m interested in app development.
 - My email: glacierlevelmaterial1@gmail.com
 
 <!---
